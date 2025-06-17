@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tech Plaza Central",
+    "categoria": "Electrónica",
+    "ubicacion": "Tegucigalpa, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 1200
+  },
+  {
+    "id": 2,
+    "nombre": "Digital Café",
+    "categoria": "Cafetería",
+    "ubicacion": "San Pedro Sula, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 340
+  },
+  {
+    "id": 3,
+    "nombre": "Librería Saber",
+    "categoria": "Librería",
+    "ubicacion": "La Ceiba, Honduras",
+    "acepta_ITcoins": false,
+    "saldo_ITcoins": 0
+  },
+  {
+    "id": 4,
+    "nombre": "Zona Gamer",
+    "categoria": "Videojuegos",
+    "ubicacion": "Choluteca, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 890
+  },
+  {
+    "id": 5,
+    "nombre": "Bici+",
+    "categoria": "Deportes",
+    "ubicacion": "Comayagua, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 550
+  },
+  {
+    "id": 6,
+    "nombre": "Hondutech Store",
+    "categoria": "Tecnología",
+    "ubicacion": "Danlí, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 2150
+  },
+  {
+    "id": 7,
+    "nombre": "FastCharge",
+    "categoria": "Electrónica",
+    "ubicacion": "Tegucigalpa, Honduras",
+    "acepta_ITcoins": false,
+    "saldo_ITcoins": 0
+  },
+  {
+    "id": 8,
+    "nombre": "EcoMarket",
+    "categoria": "Supermercado",
+    "ubicacion": "El Progreso, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 780
+  },
+  {
+    "id": 9,
+    "nombre": "Casa del Gamer",
+    "categoria": "Videojuegos",
+    "ubicacion": "Santa Rosa de Copán, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 600
+  },
+  {
+    "id": 10,
+    "nombre": "DataExpress",
+    "categoria": "Informática",
+    "ubicacion": "Puerto Cortés, Honduras",
+    "acepta_ITcoins": false,
+    "saldo_ITcoins": 0
+  },
+  {
+    "id": 11,
+    "nombre": "Café Códigos",
+    "categoria": "Cafetería",
+    "ubicacion": "Tegucigalpa, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 300
+  },
+  {
+    "id": 12,
+    "nombre": "RedNet Pro",
+    "categoria": "Telecomunicaciones",
+    "ubicacion": "San Pedro Sula, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 1200
+  },
+  {
+    "id": 13,
+    "nombre": "Cyber Planet",
+    "categoria": "Cibercafé",
+    "ubicacion": "Juticalpa, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 500
+  },
+  {
+    "id": 14,
+    "nombre": "SmartPrint",
+    "categoria": "Servicios",
+    "ubicacion": "Ocotepeque, Honduras",
+    "acepta_ITcoins": false,
+    "saldo_ITcoins": 0
+  },
+  {
+    "id": 15,
+    "nombre": "Mundo Digital",
+    "categoria": "Electrónica",
+    "ubicacion": "Santa Bárbara, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 1150
+  },
+  {
+    "id": 16,
+    "nombre": "QuickFix",
+    "categoria": "Reparaciones",
+    "ubicacion": "Tocoa, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 480
+  },
+  {
+    "id": 17,
+    "nombre": "Kódigo Libre",
+    "categoria": "Educación",
+    "ubicacion": "Tela, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 890
+  },
+  {
+    "id": 18,
+    "nombre": "HnPlay",
+    "categoria": "Entretenimiento",
+    "ubicacion": "Gracias, Honduras",
+    "acepta_ITcoins": false,
+    "saldo_ITcoins": 0
+  },
+  {
+    "id": 19,
+    "nombre": "Digital Fast",
+    "categoria": "Tecnología",
+    "ubicacion": "Siguatepeque, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 999
+  },
+  {
+    "id": 20,
+    "nombre": "Electro HN",
+    "categoria": "Electrodomésticos",
+    "ubicacion": "Trujillo, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 1300
+  },
+  {
+    "id": 21,
+    "nombre": "Zona App",
+    "categoria": "Desarrollo",
+    "ubicacion": "Intibucá, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 950
+  },
+  {
+    "id": 22,
+    "nombre": "ServiNet",
+    "categoria": "Internet",
+    "ubicacion": "Yoro, Honduras",
+    "acepta_ITcoins": false,
+    "saldo_ITcoins": 0
+  },
+  {
+    "id": 23,
+    "nombre": "CodeCraft",
+    "categoria": "Software",
+    "ubicacion": "Tegucigalpa, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 1700
+  },
+  {
+    "id": 24,
+    "nombre": "PixelTech",
+    "categoria": "Diseño",
+    "ubicacion": "Danlí, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 410
+  },
+  {
+    "id": 25,
+    "nombre": "MarketIT",
+    "categoria": "Supermercado",
+    "ubicacion": "Santa Lucía, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 700
+  },
+  {
+    "id": 26,
+    "nombre": "IT Corner",
+    "categoria": "Informática",
+    "ubicacion": "San Lorenzo, Honduras",
+    "acepta_ITcoins": false,
+    "saldo_ITcoins": 0
+  },
+  {
+    "id": 27,
+    "nombre": "GigaGadget",
+    "categoria": "Accesorios",
+    "ubicacion": "Tegucigalpa, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 1080
+  },
+  {
+    "id": 28,
+    "nombre": "NetCafe",
+    "categoria": "Cafetería",
+    "ubicacion": "San Pedro Sula, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 330
+  },
+  {
+    "id": 29,
+    "nombre": "BookChain",
+    "categoria": "Libros",
+    "ubicacion": "La Paz, Honduras",
+    "acepta_ITcoins": false,
+    "saldo_ITcoins": 0
+  },
+  {
+    "id": 30,
+    "nombre": "Crypto Café",
+    "categoria": "Cafetería",
+    "ubicacion": "Tegucigalpa, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 560
+  },
+  {
+    "id": 31,
+    "nombre": "InfoDoc",
+    "categoria": "Servicios",
+    "ubicacion": "Juticalpa, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 620
+  },
+  {
+    "id": 32,
+    "nombre": "LunaTech",
+    "categoria": "Tecnología",
+    "ubicacion": "Tela, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 890
+  },
+  {
+    "id": 33,
+    "nombre": "Kiosko Web",
+    "categoria": "Informática",
+    "ubicacion": "San Pedro Sula, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 340
+  },
+  {
+    "id": 34,
+    "nombre": "PlayMarket",
+    "categoria": "Juguetería",
+    "ubicacion": "Choloma, Honduras",
+    "acepta_ITcoins": false,
+    "saldo_ITcoins": 0
+  },
+  {
+    "id": 35,
+    "nombre": "Byte Café",
+    "categoria": "Cafetería",
+    "ubicacion": "Tegucigalpa, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 280
+  },
+  {
+    "id": 36,
+    "nombre": "DevWorks",
+    "categoria": "Desarrollo",
+    "ubicacion": "El Paraíso, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 770
+  },
+  {
+    "id": 37,
+    "nombre": "ClickShop",
+    "categoria": "Electrónica",
+    "ubicacion": "Gracias, Honduras",
+    "acepta_ITcoins": false,
+    "saldo_ITcoins": 0
+  },
+  {
+    "id": 38,
+    "nombre": "Code Café",
+    "categoria": "Cafetería",
+    "ubicacion": "Yoro, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 340
+  },
+  {
+    "id": 39,
+    "nombre": "RedDigital",
+    "categoria": "Telecomunicaciones",
+    "ubicacion": "Puerto Cortés, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 1020
+  },
+  {
+    "id": 40,
+    "nombre": "SmartNet",
+    "categoria": "Internet",
+    "ubicacion": "San Pedro Sula, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 760
+  },
+  {
+    "id": 41,
+    "nombre": "PrintXpress",
+    "categoria": "Servicios",
+    "ubicacion": "Tegucigalpa, Honduras",
+    "acepta_ITcoins": false,
+    "saldo_ITcoins": 0
+  },
+  {
+    "id": 42,
+    "nombre": "Código Abierto",
+    "categoria": "Educación",
+    "ubicacion": "Comayagua, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 900
+  },
+  {
+    "id": 43,
+    "nombre": "FoodTech",
+    "categoria": "Restaurante",
+    "ubicacion": "San Pedro Sula, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 490
+  },
+  {
+    "id": 44,
+    "nombre": "ElectroHogar",
+    "categoria": "Electrodomésticos",
+    "ubicacion": "Tocoa, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 1120
+  },
+  {
+    "id": 45,
+    "nombre": "MetaMundo",
+    "categoria": "Videojuegos",
+    "ubicacion": "Tegucigalpa, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 880
+  },
+  {
+    "id": 46,
+    "nombre": "AppLine",
+    "categoria": "Desarrollo",
+    "ubicacion": "Danlí, Honduras",
+    "acepta_ITcoins": false,
+    "saldo_ITcoins": 0
+  },
+  {
+    "id": 47,
+    "nombre": "HN Digital",
+    "categoria": "Electrónica",
+    "ubicacion": "Santa Rosa de Copán, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 1290
+  },
+  {
+    "id": 48,
+    "nombre": "TecnoMarket",
+    "categoria": "Tecnología",
+    "ubicacion": "Tegucigalpa, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 1350
+  },
+  {
+    "id": 49,
+    "nombre": "GigaCafé",
+    "categoria": "Cafetería",
+    "ubicacion": "Juticalpa, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 320
+  },
+  {
+    "id": 50,
+    "nombre": "CyberWorld",
+    "categoria": "Cibercafé",
+    "ubicacion": "San Pedro Sula, Honduras",
+    "acepta_ITcoins": true,
+    "saldo_ITcoins": 680
+  }
+]
