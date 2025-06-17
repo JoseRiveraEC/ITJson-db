@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "nombre": "Tech Plaza Central",
+    "name": "Tech Plaza Central",
     "categoria": "Electrónica",
     "ubicacion": "Tegucigalpa, Honduras",
     "acepta_ITcoins": true,
-    "saldo_ITcoins": 1200
+    "saldo_ITcoins": 200
   },
   {
     "id": 2,
