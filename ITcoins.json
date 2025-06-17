@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "nombre": "Digital Café",
+    "name": "Digital Café",
     "categoria": "Cafetería",
     "ubicacion": "San Pedro Sula, Honduras",
     "acepta_ITcoins": true,
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "nombre": "Librería Saber",
+    "name": "Librería Saber",
     "categoria": "Librería",
     "ubicacion": "La Ceiba, Honduras",
     "acepta_ITcoins": false,
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "nombre": "Zona Gamer",
+    "name": "Zona Gamer",
     "categoria": "Videojuegos",
     "ubicacion": "Choluteca, Honduras",
     "acepta_ITcoins": true,
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "nombre": "Bici+",
+    "name": "Bici+",
     "categoria": "Deportes",
     "ubicacion": "Comayagua, Honduras",
     "acepta_ITcoins": true,
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "nombre": "Hondutech Store",
+    "name": "Hondutech Store",
     "categoria": "Tecnología",
     "ubicacion": "Danlí, Honduras",
     "acepta_ITcoins": true,
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "nombre": "FastCharge",
+    "name": "FastCharge",
     "categoria": "Electrónica",
     "ubicacion": "Tegucigalpa, Honduras",
     "acepta_ITcoins": false,
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "nombre": "EcoMarket",
+    "name": "EcoMarket",
     "categoria": "Supermercado",
     "ubicacion": "El Progreso, Honduras",
     "acepta_ITcoins": true,
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "nombre": "Casa del Gamer",
+    "name": "Casa del Gamer",
     "categoria": "Videojuegos",
     "ubicacion": "Santa Rosa de Copán, Honduras",
     "acepta_ITcoins": true,
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "nombre": "DataExpress",
+    "name": "DataExpress",
     "categoria": "Informática",
     "ubicacion": "Puerto Cortés, Honduras",
     "acepta_ITcoins": false,
@@ -81,7 +81,7 @@
   },
   {
     "id": 11,
-    "nombre": "Café Códigos",
+    "name": "Café Códigos",
     "categoria": "Cafetería",
     "ubicacion": "Tegucigalpa, Honduras",
     "acepta_ITcoins": true,
@@ -89,7 +89,7 @@
   },
   {
     "id": 12,
-    "nombre": "RedNet Pro",
+    "name": "RedNet Pro",
     "categoria": "Telecomunicaciones",
     "ubicacion": "San Pedro Sula, Honduras",
     "acepta_ITcoins": true,
@@ -97,7 +97,7 @@
   },
   {
     "id": 13,
-    "nombre": "Cyber Planet",
+    "name": "Cyber Planet",
     "categoria": "Cibercafé",
     "ubicacion": "Juticalpa, Honduras",
     "acepta_ITcoins": true,
@@ -105,7 +105,7 @@
   },
   {
     "id": 14,
-    "nombre": "SmartPrint",
+    "name": "SmartPrint",
     "categoria": "Servicios",
     "ubicacion": "Ocotepeque, Honduras",
     "acepta_ITcoins": false,
@@ -113,7 +113,7 @@
   },
   {
     "id": 15,
-    "nombre": "Mundo Digital",
+    "name": "Mundo Digital",
     "categoria": "Electrónica",
     "ubicacion": "Santa Bárbara, Honduras",
     "acepta_ITcoins": true,
@@ -121,7 +121,7 @@
   },
   {
     "id": 16,
-    "nombre": "QuickFix",
+    "name": "QuickFix",
     "categoria": "Reparaciones",
     "ubicacion": "Tocoa, Honduras",
     "acepta_ITcoins": true,
@@ -129,7 +129,7 @@
   },
   {
     "id": 17,
-    "nombre": "Kódigo Libre",
+    "name": "Kódigo Libre",
     "categoria": "Educación",
     "ubicacion": "Tela, Honduras",
     "acepta_ITcoins": true,
@@ -137,7 +137,7 @@
   },
   {
     "id": 18,
-    "nombre": "HnPlay",
+    "name": "HnPlay",
     "categoria": "Entretenimiento",
     "ubicacion": "Gracias, Honduras",
     "acepta_ITcoins": false,
@@ -145,7 +145,7 @@
   },
   {
     "id": 19,
-    "nombre": "Digital Fast",
+    "name": "Digital Fast",
     "categoria": "Tecnología",
     "ubicacion": "Siguatepeque, Honduras",
     "acepta_ITcoins": true,
@@ -153,7 +153,7 @@
   },
   {
     "id": 20,
-    "nombre": "Electro HN",
+    "name": "Electro HN",
     "categoria": "Electrodomésticos",
     "ubicacion": "Trujillo, Honduras",
     "acepta_ITcoins": true,
@@ -161,7 +161,7 @@
   },
   {
     "id": 21,
-    "nombre": "Zona App",
+    "name": "Zona App",
     "categoria": "Desarrollo",
     "ubicacion": "Intibucá, Honduras",
     "acepta_ITcoins": true,
@@ -169,7 +169,7 @@
   },
   {
     "id": 22,
-    "nombre": "ServiNet",
+    "name": "ServiNet",
     "categoria": "Internet",
     "ubicacion": "Yoro, Honduras",
     "acepta_ITcoins": false,
@@ -177,7 +177,7 @@
   },
   {
     "id": 23,
-    "nombre": "CodeCraft",
+    "name": "CodeCraft",
     "categoria": "Software",
     "ubicacion": "Tegucigalpa, Honduras",
     "acepta_ITcoins": true,
@@ -185,7 +185,7 @@
   },
   {
     "id": 24,
-    "nombre": "PixelTech",
+    "name": "PixelTech",
     "categoria": "Diseño",
     "ubicacion": "Danlí, Honduras",
     "acepta_ITcoins": true,
@@ -193,7 +193,7 @@
   },
   {
     "id": 25,
-    "nombre": "MarketIT",
+    "name": "MarketIT",
     "categoria": "Supermercado",
     "ubicacion": "Santa Lucía, Honduras",
     "acepta_ITcoins": true,
@@ -201,7 +201,7 @@
   },
   {
     "id": 26,
-    "nombre": "IT Corner",
+    "name": "IT Corner",
     "categoria": "Informática",
     "ubicacion": "San Lorenzo, Honduras",
     "acepta_ITcoins": false,
@@ -209,7 +209,7 @@
   },
   {
     "id": 27,
-    "nombre": "GigaGadget",
+    "name": "GigaGadget",
     "categoria": "Accesorios",
     "ubicacion": "Tegucigalpa, Honduras",
     "acepta_ITcoins": true,
@@ -217,7 +217,7 @@
   },
   {
     "id": 28,
-    "nombre": "NetCafe",
+    "name": "NetCafe",
     "categoria": "Cafetería",
     "ubicacion": "San Pedro Sula, Honduras",
     "acepta_ITcoins": true,
@@ -225,7 +225,7 @@
   },
   {
     "id": 29,
-    "nombre": "BookChain",
+    "name": "BookChain",
     "categoria": "Libros",
     "ubicacion": "La Paz, Honduras",
     "acepta_ITcoins": false,
@@ -233,7 +233,7 @@
   },
   {
     "id": 30,
-    "nombre": "Crypto Café",
+    "name": "Crypto Café",
     "categoria": "Cafetería",
     "ubicacion": "Tegucigalpa, Honduras",
     "acepta_ITcoins": true,
@@ -241,7 +241,7 @@
   },
   {
     "id": 31,
-    "nombre": "InfoDoc",
+    "name": "InfoDoc",
     "categoria": "Servicios",
     "ubicacion": "Juticalpa, Honduras",
     "acepta_ITcoins": true,
@@ -249,7 +249,7 @@
   },
   {
     "id": 32,
-    "nombre": "LunaTech",
+    "name": "LunaTech",
     "categoria": "Tecnología",
     "ubicacion": "Tela, Honduras",
     "acepta_ITcoins": true,
@@ -257,7 +257,7 @@
   },
   {
     "id": 33,
-    "nombre": "Kiosko Web",
+    "name": "Kiosko Web",
     "categoria": "Informática",
     "ubicacion": "San Pedro Sula, Honduras",
     "acepta_ITcoins": true,
@@ -265,7 +265,7 @@
   },
   {
     "id": 34,
-    "nombre": "PlayMarket",
+    "name": "PlayMarket",
     "categoria": "Juguetería",
     "ubicacion": "Choloma, Honduras",
     "acepta_ITcoins": false,
@@ -273,7 +273,7 @@
   },
   {
     "id": 35,
-    "nombre": "Byte Café",
+    "name": "Byte Café",
     "categoria": "Cafetería",
     "ubicacion": "Tegucigalpa, Honduras",
     "acepta_ITcoins": true,
@@ -281,7 +281,7 @@
   },
   {
     "id": 36,
-    "nombre": "DevWorks",
+    "name": "DevWorks",
     "categoria": "Desarrollo",
     "ubicacion": "El Paraíso, Honduras",
     "acepta_ITcoins": true,
@@ -289,7 +289,7 @@
   },
   {
     "id": 37,
-    "nombre": "ClickShop",
+    "name": "ClickShop",
     "categoria": "Electrónica",
     "ubicacion": "Gracias, Honduras",
     "acepta_ITcoins": false,
@@ -297,7 +297,7 @@
   },
   {
     "id": 38,
-    "nombre": "Code Café",
+    "name": "Code Café",
     "categoria": "Cafetería",
     "ubicacion": "Yoro, Honduras",
     "acepta_ITcoins": true,
@@ -305,7 +305,7 @@
   },
   {
     "id": 39,
-    "nombre": "RedDigital",
+    "name": "RedDigital",
     "categoria": "Telecomunicaciones",
     "ubicacion": "Puerto Cortés, Honduras",
     "acepta_ITcoins": true,
@@ -313,7 +313,7 @@
   },
   {
     "id": 40,
-    "nombre": "SmartNet",
+    "name": "SmartNet",
     "categoria": "Internet",
     "ubicacion": "San Pedro Sula, Honduras",
     "acepta_ITcoins": true,
@@ -321,7 +321,7 @@
   },
   {
     "id": 41,
-    "nombre": "PrintXpress",
+    "name": "PrintXpress",
     "categoria": "Servicios",
     "ubicacion": "Tegucigalpa, Honduras",
     "acepta_ITcoins": false,
@@ -329,7 +329,7 @@
   },
   {
     "id": 42,
-    "nombre": "Código Abierto",
+    "name": "Código Abierto",
     "categoria": "Educación",
     "ubicacion": "Comayagua, Honduras",
     "acepta_ITcoins": true,
@@ -337,7 +337,7 @@
   },
   {
     "id": 43,
-    "nombre": "FoodTech",
+    "name": "FoodTech",
     "categoria": "Restaurante",
     "ubicacion": "San Pedro Sula, Honduras",
     "acepta_ITcoins": true,
@@ -345,7 +345,7 @@
   },
   {
     "id": 44,
-    "nombre": "ElectroHogar",
+    "name": "ElectroHogar",
     "categoria": "Electrodomésticos",
     "ubicacion": "Tocoa, Honduras",
     "acepta_ITcoins": true,
@@ -353,7 +353,7 @@
   },
   {
     "id": 45,
-    "nombre": "MetaMundo",
+    "name": "MetaMundo",
     "categoria": "Videojuegos",
     "ubicacion": "Tegucigalpa, Honduras",
     "acepta_ITcoins": true,
@@ -361,7 +361,7 @@
   },
   {
     "id": 46,
-    "nombre": "AppLine",
+    "name": "AppLine",
     "categoria": "Desarrollo",
     "ubicacion": "Danlí, Honduras",
     "acepta_ITcoins": false,
@@ -369,7 +369,7 @@
   },
   {
     "id": 47,
-    "nombre": "HN Digital",
+    "name": "HN Digital",
     "categoria": "Electrónica",
     "ubicacion": "Santa Rosa de Copán, Honduras",
     "acepta_ITcoins": true,
@@ -377,7 +377,7 @@
   },
   {
     "id": 48,
-    "nombre": "TecnoMarket",
+    "name": "TecnoMarket",
     "categoria": "Tecnología",
     "ubicacion": "Tegucigalpa, Honduras",
     "acepta_ITcoins": true,
@@ -385,7 +385,7 @@
   },
   {
     "id": 49,
-    "nombre": "GigaCafé",
+    "name": "GigaCafé",
     "categoria": "Cafetería",
     "ubicacion": "Juticalpa, Honduras",
     "acepta_ITcoins": true,
@@ -393,7 +393,7 @@
   },
   {
     "id": 50,
-    "nombre": "CyberWorld",
+    "name": "CyberWorld",
     "categoria": "Cibercafé",
     "ubicacion": "San Pedro Sula, Honduras",
     "acepta_ITcoins": true,
